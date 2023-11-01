@@ -3,7 +3,7 @@ import time
 time.sleep(3)
 
 while(True):
-    pyautogui.typewrite("fuck")
+    pyautogui.typewrite("Type -ur-Messages-Here")
     pyautogui.press("enter")
 time.sleep(3)
 
